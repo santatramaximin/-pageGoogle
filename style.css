@@ -1,0 +1,75 @@
+.volo{
+	display: flex;
+    float: right;   
+    justify-content:flex-end;
+    flex-direction: row;
+}
+
+.volo {
+	display: block;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+
+
+.corps{
+	display: block;
+	margin-top: 10%;
+	justify-content: center;
+	text-align: center;
+
+}
+
+#gg{
+
+	
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+
+}
+.recherche{
+	border:none;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+}
+.cherche{
+	width: 400px;
+}
+.bare{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.hihi{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+footer{
+display: block;
+position: fixed;
+bottom: 0px;
+
+}
+
+.mada{
+	display
+}
+
+.blabla{
+	display:inline-block;
+    float:;   
+    align-items:flex-end;
+    flex-direction: row;
+
+}
+
+li{
+	display: inline-block;
+	margin: 10px;
+
+}

@@ -86,8 +86,10 @@ top: 8px;
 
 
 .button1:hover {
+	color: black;
+	font-weight: bold;
+	border:lightgrey 1px solid;
 
-	box-shadow: 1px 10px 5px -9px #777;
 
 }
 
@@ -104,8 +106,9 @@ top: 8px;
 
 
 .button2:hover {
-
-	box-shadow: 1px 10px 5px -9px #777;
+	color: black;
+	font-weight: bold;
+	border:lightgrey 1px solid;
 
 }
 

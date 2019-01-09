@@ -80,8 +80,14 @@ top: 8px;
 	color:gray;
 	background-color:rgb(240,240,240);
 	border:none;
-	width: 120px;
+	width: 140px;	
 	height: 30px;
+}
+
+
+.button1:hover {
+
+	box-shadow: 1px 10px 5px -9px #777;
 
 }
 
@@ -91,13 +97,25 @@ top: 8px;
 	color:gray;
 	background-color:rgb(240,240,240);
 	border:none;
-	width: 120px;
+	width: 140px;
 	height: 30px;
 }
+
+
+
+.button2:hover {
+
+	box-shadow: 1px 10px 5px -9px #777;
+
+}
+
+
 
 .color{
 	color:blue;
 }
+
+
 
 .hihi{
 	display: flex;
@@ -123,6 +141,7 @@ margin:0px;
 
 footer a, footer div{
 color:gray;
+font-family: arial, sans-serif;
 
 }
 
